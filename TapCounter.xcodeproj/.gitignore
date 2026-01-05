@@ -1,0 +1,16 @@
+# Xcode
+
+DerivedData/
+/build/
+*.xuserstate
+*.xccheckout
+*.xcscmbkueorint
+
+# SwiftPM
+.swiftpm/
+
+# macOS
+.DS_Store
+
+# User-specific Xcode date
+Xcuserdata/
